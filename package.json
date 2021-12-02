@@ -1,0 +1,30 @@
+{
+  "name": "advent-calendar-2021",
+  "version": "1.0.0",
+  "description": "Advent Calendar 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaKontarero/advent-calendar-2021.git"
+  },
+  "author": "alina.kontarero@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaKontarero/advent-calendar-2021/issues"
+  },
+  "homepage": "https://github.com/AlinaKontarero/advent-calendar-2021#readme",
+  "dependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jest": "^25.3.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-security": "^1.4.0",
+    "jest": "^27.4.3",
+    "lint-staged": "^12.1.2",
+    "prettier": "^2.5.0"
+  }
+}
